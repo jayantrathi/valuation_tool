@@ -22,8 +22,6 @@ to produce a blended price target and 3-year price forecast for any stock.
 
 ## Example output
 
-## Example output
-
 ![AAPL Valuation Output](images/AAPL_valuation_v3.png)
 
 
